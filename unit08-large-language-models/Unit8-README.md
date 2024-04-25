@@ -1,5 +1,9 @@
 # Deep Learning Fundamentals Unit 8
 
+<a target="_blank" href="https://lightning.ai/new?repo_url=https%3A%2F%2Fgithub.com%2Fyurijmikhalevich%2Fdl-fundamentals%2Fblob%2Fmain%2Funit08-large-language-models%2F8.7-distilbert-finetuning%2Fpart3_distilbert-finetuning-whole.ipynb">
+  <img src="https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/studio-badge.svg" alt="Open in Studio" />
+</a>
+
 ## Natural Language Processing and Large Language Models
 
 In this unit, we are jumping into natural language processing and large language models, one of the hottest topics in AI. In this unit, you will learn how to work with text data and encode it for machine learning models. You will also learn about deep neural networks for sequence data and large language transformers. After this unit, you will have a solid grasp of attention mechanisms used in large language models and be able to adapt and finetune transformer models for predictive modeling tasks.
